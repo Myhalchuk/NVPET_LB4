@@ -1,0 +1,34 @@
+* {font-family: arial, helvetica, sans-serif;
+}
+.title {
+	font-style: italic;
+	font-weight: 450;
+	color: #800000;
+}
+p {
+	color: #D2691E;
+	font-size: 20px;
+}
+.text {
+	font-size: 22px;
+}
+a[href="File1.html"] {
+	color: #8B4513;
+}
+a[href="File2.html"]{
+color: #FF1493;
+}
+a[href="File3.html"]{
+	color: #4169E1;
+}
+a[href="File4.html"]{
+	color: #CD853F;
+}
+.note {
+	font-size: 22px;
+	color: #FF1493;
+}
+.none {
+	font-size: 22px;
+	color: #4169E1;
+}
